@@ -1,0 +1,4 @@
+modelo,acc_segmento,acc_clipe,acc_clipe_std,f1_macro_clipe,f1_clipe_std
+SVM (RBF),0.468,0.517,0.041,0.497,0.047
+Random Forest,0.438,0.458,0.059,0.442,0.062
+"SVM tuned (C=5, gamma=0.01)",0.473,0.52,0.058,0.504,0.061
